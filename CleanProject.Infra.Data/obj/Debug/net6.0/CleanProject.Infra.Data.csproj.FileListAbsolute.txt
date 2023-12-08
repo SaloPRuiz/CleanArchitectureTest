@@ -1,0 +1,17 @@
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Infra.Data.deps.json
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Infra.Data.runtimeconfig.json
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Infra.Data.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Infra.Data.pdb
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.AssemblyInfo.cs
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\refint\CleanProject.Infra.Data.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.pdb
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.genruntimeconfig.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\ref\CleanProject.Infra.Data.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Domain.Application.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\bin\Debug\net6.0\CleanProject.Domain.Application.pdb
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Infra.Data\obj\Debug\net6.0\CleanProject.Infra.Data.csproj.CopyComplete

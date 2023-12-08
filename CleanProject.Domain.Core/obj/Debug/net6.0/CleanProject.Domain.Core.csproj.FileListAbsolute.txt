@@ -1,0 +1,11 @@
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\bin\Debug\net6.0\CleanProject.Domain.Core.deps.json
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\bin\Debug\net6.0\CleanProject.Domain.Core.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\bin\Debug\net6.0\CleanProject.Domain.Core.pdb
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.AssemblyInfo.cs
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\refint\CleanProject.Domain.Core.dll
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\CleanProject.Domain.Core.pdb
+C:\Users\star_\RiderProjects\CleanProject\CleanProject.Domain.Core\obj\Debug\net6.0\ref\CleanProject.Domain.Core.dll

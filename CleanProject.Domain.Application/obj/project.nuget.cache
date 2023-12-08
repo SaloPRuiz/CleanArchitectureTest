@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkRc7LJlDp9apw/5ynAsgNy1CZQUu4rDdjoUBYKS7HmoLEeMye1mZHLOG/WPP4C7zUGaiP7nQq3w88rqRofeew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\star_\\RiderProjects\\CleanProject\\CleanProject.Domain.Application\\CleanProject.Domain.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\star_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\star_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\star_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
