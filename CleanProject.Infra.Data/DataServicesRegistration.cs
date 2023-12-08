@@ -12,8 +12,10 @@ public static class DataServicesRegistration
     public static IServiceCollection AddDataInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddScoped<IUnitOrganizationsUsers, UnitOrganizationsUsers>();
+        services.AddScoped<IUnitOrganizationsProducts, UnitOrganizationsProducts>();
         services.AddScoped<IUserRepo, UserRepo>();
         services.AddScoped<IOrganizationRepo, OrganizationRepo>();
+        services.AddScoped<IProductRepo, ProductRepo>();
         
         services.AddScoped<IAuthService, AuthService>();
         services.AddScoped<IUserService, UserService>();

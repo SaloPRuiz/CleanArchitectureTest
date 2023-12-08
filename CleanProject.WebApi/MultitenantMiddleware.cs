@@ -14,14 +14,14 @@ public class MultitenantMiddleware
         _next = next;
     }
 
-    public async Task Invoke(HttpContext context, DbContextOptionsBuilder dbContextOptionsBuilder)
+    public async Task Invoke(HttpContext context)
     {
         // Getting the tenant name from URL
         var tenant = context.Request.Path.Value.Split('/')[1];
 
         // Configure the conexión of DB from the tenant
-        // ConfigureDatabaseConnection(dbContextOptionsBuilder, tenant);
-        
+        // ConfigureDatabaseConnection(tenant);
+
         // Calling next middleware
         await _next(context);
     }
@@ -33,7 +33,13 @@ public class MultitenantMiddleware
 
     private string GetConnectionStringForTenant(string tenant)
     {
-        var connectionString = $"Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog={tenant}Database;Integrated Security=True";
+        // Lógica para obtener la cadena de conexión según el tenant
+        // Puedes implementar tu propia lógica aquí, por ejemplo, consultar una base de datos central
+        // y obtener la cadena de conexión correspondiente al tenant.
+
+        // Aquí proporciono un ejemplo simple para demostración, asegúrate de ajustar según tus necesidades.
+        var connectionString =
+            $"Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog={tenant}Database;Integrated Security=True";
         return connectionString;
     }
 }
